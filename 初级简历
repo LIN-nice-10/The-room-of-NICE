@@ -1,0 +1,99 @@
+	<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>简历</title>
+		<div>
+			<style>
+				body{
+					background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569034478391&di=5a40d4741e67b1707fd5e9563bc6049f&imgtype=0&src=http%3A%2F%2Fwww.33lc.com%2Farticle%2FUploadPic%2F2012-10%2F2012101211353144318.jpg)
+				}
+		    </style>
+			<!-- </div>变出背景图片-->
+			<style>
+				.dropdown-content{
+					positon:relative;
+					display : none;
+					background-color:gainsboro;
+					color:black;
+					
+					padding:2.5px  5px;
+					box-shadow:  9px 8px 16px 0px rgba(0,0,0,0.2);
+					}
+					.dropdown:hover .dropdown-content{
+						display:block;
+						width: 52px;
+					}
+				
+			
+			</style>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<table>
+					<table style="width:60%" ; border="2" ;cellpadding="3" ;ccellspacing="5" ;margin:auto>
+						<tr>
+							<th>姓名</th>
+							<th>班级 </th>
+							<th>学号 </th>
+						</tr>
+			</thead>
+			<tbody>
+				<table>
+					<table style="width:60%" ; border="2" ;cellpadding="3" ;ccellspacing="5" ;margin:auto>
+						<tr>
+							<td>林雨浩</td>
+							<td>网络工程1902</td>
+							<td>1911660208</td>
+						</tr>
+
+			</tbody>
+			<table>
+				<thead>
+					<div>
+						<label for="goal">所获荣誉</label>
+					</div>
+				</thead>
+				<tbody>
+
+					<div>
+						<input name="goal" id="goal" type="text" placeholder="现在是零,希望四年后能填满它">
+					</div>
+					<div>
+						<input name="goal" id="goal" type="text" placeholder="现在是零,希望四年后能填满它">
+					</div>
+					<div>
+						<input name="goal" id="goal" type="text" placeholder="现在是零,希望四年后能填满它">
+					</div>
+					<div>
+						<input name="goal" id="goal" type="text" placeholder="现在是零,希望四年后能填满它">
+					</div>
+					<div>
+						<input name="goal" id="goal" type="text" placeholder="现在是零,希望四年后能填满它">
+					</div>
+				</tbody>
+			</table>
+
+			
+				<div class="dropdown" style="width: 200px;">
+					<span>我的兴趣爱好</span>
+					<div class="dropdown-content">
+						<p>唱</p>
+						<p>跳</p>
+						<p>rap</p>
+						<p>篮球</p>
+					</div>
+				</div>
+		
+
+
+			<td>
+				<div>
+					<a href="https://www.baidu.com/">
+				</div>
+				<img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b5555_5000&sec=1568989709606&di=681eef488a70cda56ccdfe9b0291e50f&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp176153626.jpg">
+			</td>
+
+	</body>
+</html>
